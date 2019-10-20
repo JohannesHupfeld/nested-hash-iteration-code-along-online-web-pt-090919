@@ -1,6 +1,7 @@
 require 'pry'
 require_relative "../lib/contacts.rb"
   # This is the array we will be passing into the remove_strawberry method
+    puts remove_strawberry(contacts = {
     "Jon Snow" => {
        name: "Jon",
        email: "jon_snow@thewall.we", 
